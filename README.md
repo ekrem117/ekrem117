@@ -18,7 +18,7 @@
 
 | Repository | Description |
 |---|---|
-| [**bat-x3-hss**](https://github.com/ekrem117/bat-x3-hss) | Python subsystem: YOLO detection, tracking, friend/foe classification, mode state machine and turret control |
+| [**BAT-x3-HSS_Software-Python**](https://github.com/ekrem117/bat-x3-hss) | Python subsystem: YOLO detection, tracking, friend/foe classification, mode state machine and turret control |
 | [**BAT-x3-HSS-Arduino**](https://github.com/ekrem117/BAT-x3-HSS-Arduino) | Embedded firmware: pan/tilt/trigger servo control, trapezoidal motion profiles, serial protocol and connection watchdog |
 | [**BAT-x3-HSS-GUI**](https://github.com/ekrem117/BAT-x3-HSS-GUI) | C# operator interface (WPF + ASP.NET Core/SignalR): live video, detections, manual control and emergency stop |
 
