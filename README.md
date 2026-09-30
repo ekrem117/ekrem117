@@ -3,7 +3,7 @@
 #### 💬 Computer Engineer working on computer vision, embedded systems and autonomous unmanned systems 👨‍💻
 
 <p>
-🎓 B.Sc. in Computer Engineering, Üsküdar University (English, full scholarship)<br/>
+🎓 B.Sc. in Computer Engineering, Üsküdar University GPA:3.75/4 (English, full scholarship)<br/>
 💼 Candidate Software Engineer at CTECH<br/>
 🎯 Software Unit Lead at BAT-X3 — Teknofest 2024 Finalist (Air Defense Systems)<br/>
 🚁 Team Captain at Ankebut UAV — Teknofest 2026 International UAV Competition<br/>
@@ -25,10 +25,10 @@
 **Also worked on:**
 - **Wildfire Early Warning UAV** (graduation project, Teknofest 2026): YOLO-based fire and spot-fire detection optimized for real-time inference on Jetson Orin Nano, integrated with the flight controller
 - **LoS Communication Relay UAV** (CTECH): proof of concept for a low-cost COTS autonomous UAV relay at 200 m altitude — ArduPilot SITL and Gazebo simulation, Pixhawk + Jetson + IP camera integration over UDP, EMI/EMC analysis between the LOS modem and GPS receiver
-- **Camera Mode Test Automation** (ASELSAN): turned manual camera web-interface tests into an image-processing-based automated pipeline with Pytest and Allure reporting
+- **Test Automation** (ASELSAN): turned manual camera web-interface tests into an image-processing-based automated pipeline with Pytest and Allure reporting
 - **Autonomous Agricultural UGV** (Teknofest 2024): image processing and autonomous navigation software for hoeing and path-following tasks
 - **Laser Targeting Robot**: kinematics-based laser pointing robot
-- **T3 AI'LE**: contributed to Türkiye's open large language model initiative as a T3 Foundation scholar, mentored by the Baykar technical team
+- **T3 AI'LE**: contributed to Türkiye's open large language model initiative as a T3 Foundation scholar, mentored by the BAYKAR technical team
 
 <hr>
 
@@ -36,7 +36,7 @@
 
 - Teknofest 2024 Air Defense Systems **Finalist** (among 255 teams)
 - Co-founding Vice President of Üsküdar University Teknofest Club (200+ members)
-- UAV Pilot Certificate
+- UAV Pilot Licence
 - Aselsan A Yetenek 3 Program
 
 <hr>
