@@ -18,17 +18,17 @@
 
 | Repository | Description |
 |---|---|
-| [**BAT-x3-HSS_Software-Python**](https://github.com/ekrem117/bat-x3-hss) | Python subsystem: YOLO detection, tracking, friend/foe classification, mode state machine and turret control |
-| [**BAT-x3-HSS-Arduino**](https://github.com/ekrem117/BAT-x3-HSS-Arduino) | Embedded firmware: pan/tilt/trigger servo control, trapezoidal motion profiles, serial protocol and connection watchdog |
-| [**BAT-x3-HSS-GUI**](https://github.com/ekrem117/BAT-x3-HSS-GUI) | C# operator interface (WPF + ASP.NET Core/SignalR): live video, detections, manual control and emergency stop |
+| [**_BAT-x3-HSS_Software-Python_**](https://github.com/ekrem117/bat-x3-hss) | Python subsystem: YOLO detection, tracking, friend/foe classification, mode state machine and turret control |
+| [**_BAT-x3-HSS-Arduino_**](https://github.com/ekrem117/BAT-x3-HSS-Arduino) | Embedded firmware: pan/tilt/trigger servo control, trapezoidal motion profiles, serial protocol and connection watchdog |
+| [**_BAT-x3-HSS-GUI_**](https://github.com/ekrem117/BAT-x3-HSS-GUI) | C# operator interface (WPF + ASP.NET Core/SignalR): live video, detections, manual control and emergency stop |
 
 **Also worked on:**
 - **Wildfire Early Warning UAV** (graduation project, Teknofest 2026): YOLO-based fire and spot-fire detection optimized for real-time inference on Jetson Orin Nano, integrated with the flight controller
-- **LoS Communication Relay UAV** (CTECH): proof of concept for a low-cost COTS autonomous UAV relay at 200 m altitude — ArduPilot SITL and Gazebo simulation, Pixhawk + Jetson + IP camera integration over UDP, EMI/EMC analysis between the LOS modem and GPS receiver
-- **Test Automation** (ASELSAN): turned manual camera web-interface tests into an image-processing-based automated pipeline with Pytest and Allure reporting
+- **LoS Communication Relay UAV** **_(CTECH)_**: proof of concept for a low-cost COTS autonomous UAV relay at 200 m altitude — ArduPilot SITL and Gazebo simulation, Pixhawk + Jetson + IP camera integration over UDP, EMI/EMC analysis between the LOS modem and GPS receiver
+- **Test Automation** **_(ASELSAN)_**: turned manual camera web-interface tests into an image-processing-based automated pipeline with Pytest and Allure reporting
 - **Autonomous Agricultural UGV** (Teknofest 2024): image processing and autonomous navigation software for hoeing and path-following tasks
 - **Laser Targeting Robot**: kinematics-based laser pointing robot
-- **T3 AI'LE**: contributed to Türkiye's open large language model initiative as a T3 Foundation scholar, mentored by the BAYKAR technical team
+- **T3 AI'LE**: contributed to Türkiye's open large language model initiative as a T3 Foundation scholar, mentored by the **_BAYKAR_** technical team
 
 <hr>
 
